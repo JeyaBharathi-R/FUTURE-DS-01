@@ -1,0 +1,42 @@
+User	Text	Sentiment	Timestamp	Platform	Hashtags	Retweets	Likes	Country	Year	Month	Day	Hour
+User123	Enjoying a beautiful day at the park!	Positive	15-01-2023 12:30	Twitter	#Nature #Park	15	30	USA	2023	1	15	12
+CommuterX	Traffic was terrible this morning.	Negative	15-01-2023 08:45	Twitter	#Traffic #Morning	5	10	Canada	2023	1	15	8
+FitnessFan	Just finished an amazing workout! 💪	Positive	15-01-2023 15:45	Instagram	#Fitness #Workout	20	40	USA	2023	1	15	15
+AdventureX	Excited about the upcoming weekend getaway!	Positive	15-01-2023 18:20	Facebook	#Travel #Adventure	8	15	UK	2023	1	15	18
+ChefCook	Trying out a new recipe for dinner tonight.	Neutral	15-01-2023 19:55	Instagram	#Cooking #Food	12	25	Australia	2023	1	15	19
+GratitudeNow	Feeling grateful for the little things in life.	Positive	16-01-2023 09:10	Twitter	#Gratitude #PositiveVibes	25	50	India	2023	1	16	9
+RainyDays	Rainy days call for cozy blankets and hot cocoa.	Positive	16-01-2023 14:45	Facebook	#RainyDays #Cozy	10	20	Canada	2023	1	16	14
+MovieBuff	The new movie release is a must-watch!	Positive	16-01-2023 19:30	Instagram	#MovieNight #MustWatch	15	30	USA	2023	1	16	19
+DebateTalk	Political discussions heating up on the timeline.	Negative	17-01-2023 08:00	Twitter	#Politics #Debate	30	60	USA	2023	1	17	8
+BeachLover	Missing summer vibes and beach days.	Neutral	17-01-2023 12:20	Facebook	#Summer #BeachDays	18	35	Australia	2023	1	17	12
+BloggerX	Just published a new blog post. Check it out!	Positive	17-01-2023 15:15	Instagram	#Blogging #NewPost	22	45	USA	2023	1	17	15
+WellnessCheck	Feeling a bit under the weather today.	Negative	18-01-2023 10:30	Twitter	#SickDay #Health	7	15	Canada	2023	1	18	10
+UrbanExplorer	Exploring the city's hidden gems.	Positive	18-01-2023 14:50	Facebook	#CityExplore #HiddenGems	12	25	UK	2023	1	18	14
+FitJourney	New year, new fitness goals! 💪	Positive	18-01-2023 18:00	Instagram	#NewYear #FitnessGoals	28	55	USA	2023	1	18	18
+TechEnthusiast	Technology is changing the way we live.	Neutral	19-01-2023 09:45	Twitter	#Tech #Innovation	15	30	India	2023	1	19	9
+Reflections	Reflecting on the past and looking ahead.	Positive	19-01-2023 13:20	Facebook	#Reflection #Future	20	40	USA	2023	1	19	13
+PetAdopter	Just adopted a cute furry friend! 🐾	Positive	19-01-2023 17:10	Instagram	#PetAdoption #FurryFriend	15	30	Canada	2023	1	19	17
+TechConference	Attending a virtual conference on AI.	Neutral	20-01-2023 11:30	Facebook	#AI #TechConference	25	50	USA	2023	1	20	11
+WinterBlues	Winter blues got me feeling low.	Negative	20-01-2023 15:15	Instagram	#WinterBlues #Mood	8	15	USA	2023	1	20	15
+Bookworm	Sipping coffee and enjoying a good book.	Positive	21-01-2023 08:40	Twitter	#Reading #CoffeeTime	22	45	India	2023	1	21	8
+VRExplorer	Exploring the world of virtual reality.	Positive	21-01-2023 13:20	Facebook	#VR #VirtualReality	15	30	USA	2023	1	21	13
+ProductivityPro	Productive day ticking off my to-do list.	Positive	21-01-2023 16:45	Instagram	#Productivity #WorkFromHome	30	60	USA	2023	1	21	16
+FitnessWarrior	Just finished a challenging workout routine.	Positive	22-01-2023 09:15	Twitter	#Fitness #ChallengeAccepted	20	40	UK	2023	1	22	9
+CareerMilestone	Celebrating a milestone at work! 🎉	Positive	22-01-2023 14:30	Facebook	#Career #Milestone	12	25	Canada	2023	1	22	14
+BrunchBuddy	Sunday brunch with friends.	Positive	22-01-2023 12:00	Instagram	#Brunch #Friends	15	30	UK	2023	1	22	12
+LanguageLearner	Learning a new language for personal growth.	Positive	23-01-2023 16:20	Facebook	#LanguageLearning #PersonalGrowth	25	50	India	2023	1	23	16
+BookLover	Quiet evening with a good book.	Positive	23-01-2023 19:45	Instagram	#Reading #QuietTime	15	30	Australia	2023	1	23	19
+MentalHealthMatters	Reflecting on the importance of mental health.	Positive	24-01-2023 11:30	Twitter	#MentalHealth #SelfCare	22	45	USA	2023	1	24	11
+ArtistInAction	New painting in progress! 🎨	Positive	24-01-2023 15:00	Facebook	#Art #PaintingInProgress	12	25	Canada	2023	1	24	15
+RoadTripper	Weekend road trip to explore scenic views.	Positive	24-01-2023 17:30	Instagram	#RoadTrip #ScenicViews	18	35	UK	2023	1	24	17
+SunsetWatcher	Enjoying a cup of tea and watching the sunset.	Positive	25-01-2023 18:00	Twitter	#TeaTime #Sunset	15	30	India	2023	1	25	18
+CodeEnthusiast	Coding a new project with enthusiasm.	Positive	25-01-2023 13:15	Facebook	#Coding #Enthusiasm	30	60	USA	2023	1	25	13
+WorkshopAttendee	Feeling inspired after attending a workshop.	Positive	26-01-2023 09:45	Instagram	#Inspiration #Workshop	25	50	USA	2023	1	26	9
+WinterSports	Winter sports day at the local park.	Positive	26-01-2023 14:20	Twitter	#WinterSports #Fun	15	30	Canada	2023	1	26	14
+FamilyTime	Quality time with family this weekend.	Positive	26-01-2023 17:40	Facebook	#FamilyTime #Weekend	22	45	UK	2023	1	26	17
+MusicLover	Attending a live music concert tonight.	Positive	27-01-2023 20:00	Instagram	#Music #ConcertNight	18	35	USA	2023	1	27	20
+MindfulMoments	Practicing mindfulness with meditation.	Positive	27-01-2023 12:30	Twitter	#Mindfulness #Meditation	15	30	India	2023	1	27	12
+DessertExplorer	Trying out a new dessert recipe.	Positive	27-01-2023 16:10	Facebook	#Dessert #Cooking	12	25	Canada	2023	1	27	16
+GamingEnthusiast	Excited about the upcoming gaming tournament.	Positive	28-01-2023 09:00	Instagram	#Gaming #Tournament	30	60	USA	2023	1	28	9
+GardenPlanner	Planning a garden makeover for spring.	Positive	28-01-2023 14:45	Twitter	#Gardening #Spring	25	50	USA	2023	1	28	14
+Birth
