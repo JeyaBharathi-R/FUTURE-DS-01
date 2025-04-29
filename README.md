@@ -1,124 +1,26 @@
-**📝 Task Overview**
------------------------------------------------------
+Tweet;Sentiment
+I love fitness, yoga. I love f.;Positive
+"@tuyu_fitness wwwwwwwwwwwwww
+??????????";Neutral
+Si buscas ganar músculo y quemar grasa en el gimnasio, maximiza el tiempo de entrenamiento con estas rutinas de alta intensidad. https://t.co/uK6gLHRUKn;Neutral
+"RT @tvphim18: Lecherous guy inhaled poppers to get high while masturbating lasciviously. He moaned as his cum was released?
+??Next ep: http…";Positive
+"Feel free to check out Health , Wellness, Fitness, Deal Check, RentCast, Foreclosures, Boxabl homes, Furniture and more on my website: https://t.co/OOpRfO0I8P
 
-This project focuses on analyzing trending topics from major social media platforms — Twitter, Instagram, and LinkedIn — to understand user interests, public sentiment, and shifts in market behavior. The goal is to collect real-time data, perform natural language processing (NLP) for sentiment analysis, classify posts based on priority, and visualize the insights through a dashboard.
+Men's Fashion https://t.co/xzY2HsOaTL
 
+Women's Fashion 
+https://t.co/x7VRz5ERDB
 
-**🎯 Objective**
---------------------------------------------------
-The objective is to collect trending topics from Twitter, Instagram, and LinkedIn, analyze user interests and sentiment, and create a dashboard that helps businesses understand market shifts and user emotions.
+Custom Apparel 
+https://t.co/sUU5qQPO1q https://t.co/TThDPxYLdw";Positive
+Fitness pursuits have a surprising similarity to career stuff, set the plan and lift those weights of responsibility evenly..;Positive
+"RT @HPhobiaWatch: @Guttajwala A sportsperson is spreading diabetes, obesity &amp;  wokeness over health, discipline &amp; fitness 
 
-**📁 Dataset Overview Sources:**
---------------------------------------------------
-Twitter (using Tweepy API)
+No wonder we su…";Neutral
+"@VigilantFox Is @POTUS aware of this?
+I'm just a Welsh granny who knew it, but I've just read his fitness report, and I'm horrified that he's on 2 dreadful statins";Negative
+RT @BreatheKohli: Moments like this when you realise that he isn't a machine and despite all the fitness and diet, he isn't immune to age a…;Neutral
+"RT @HPhobiaWatch: @Guttajwala A sportsperson is spreading diabetes, obesity &amp;  wokeness over health, discipline &amp; fitness 
 
-Instagram (scraped public posts)
-
-LinkedIn (public posts)
-
-**Collected Data:**
--------------------------------------------------
-Post Text
-
-Hashtags
-
-Post Date
-
-Likes and Shares
-
-Sentiment (Positive, Neutral, Negative)
-
-Ticket Priority (High, Medium, Low)
-
-**Tools Used:**
--------------------------------------------------------------
-Python (BeautifulSoup, Tweepy, TextBlob), Power BI, Excel
-
-**📊 Key Insights & Trends**
-Top Trending Topics:
-
-Twitter: AI, politics, climate change
-
-Instagram: Fitness, travel, food
-
-LinkedIn: Jobs, leadership, technology
-
-**Sentiment Distribution:**
-------------------------------------------------
-Positive: 45%
-
-Neutral: 35%
-
-Negative: 20%
-
-**Observed Trends:**
-----------------------------------------------------
-
-AI and technology discussions are growing fast.
-
-Instagram posts show more positive sentiments compared to other platforms.
-
-**🚦 Ticket Priority, Resolution Time & Satisfaction Ticket Priority Split:**
-------------------------------------------------------
-
-High: 25%
-
-Medium: 40%
-
-Low: 35%
-
-**Resolution Time Estimates:**
---------------------------------------------------------
-
-High Priority → 12 hours
-
-Medium Priority → 48 hours
-
-Low Priority → 96 hours
-
-**Satisfaction Rates:**
----------------------------------------------------------
-
-High Priority: 72%
-
-Medium Priority: 85%
-
-Low Priority: 95%
-
-**🧠 Model Development**
------------------------------------------------------------
-
-The text data was cleaned (removing stopwords, lemmatization).
-
-Sentiment analysis was done using TextBlob.
-
-Ticket priority was assigned based on engagement and sentiment scores.
-
-The final dashboard was built using Power BI and Excel.
-
-**💡 Recommendations**
----------------------------------------------------------------
-
-Monitor high-priority negative posts daily.
-
-Leverage positive posts for marketing.
-
-Automate sentiment tagging for faster resolution.
-
-Track trending topics to adjust business strategies.
-
-**🏁 Conclusion**
--------------------------------------------------------------------
-
-Analyzing social media trends provides real-time insights into user interests and emotions. This helps businesses improve customer engagement, respond faster to issues, and stay aligned with the latest market trends.
-
-**Submitted by**
--------------------------------------------------------------------
-
-Jeya bharathi R
-
-Future interns participant|Track :Data
-
-Track code: DS
-
-Tassk number: 01
+No wonder we su…";Neutral
